@@ -1,4 +1,30 @@
+#### idea
 **/.idea
-**/target
-sonar/plugins/*.jar
 **/*.iml
+
+#### sonar
+sonar/plugins/*.jar
+
+#### test-project-java
+test-project-java/target
+
+#### test-project-javascript-react
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# dependencies
+test-project-javascript-react/node_modules
+test-project-javascript-react/.pnp
+test-project-javascript-react/.pnp.js
+# testing
+test-project-javascript-react/coverage
+# production
+test-project-javascript-react/build
+# misc
+test-project-javascript-react/.DS_Store
+test-project-javascript-react/.env.local
+test-project-javascript-react/.env.development.local
+test-project-javascript-react/.env.test.local
+test-project-javascript-react/.env.production.local
+
+test-project-javascript-react/npm-debug.log*
+test-project-javascript-react/yarn-debug.log*
+test-project-javascript-react/yarn-error.log*
