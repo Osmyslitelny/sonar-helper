@@ -4,6 +4,7 @@
 
 #### sonar
 sonar/plugins/*.jar
+**/.scannerwork
 
 #### test-project-java
 test-project-java/target

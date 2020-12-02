@@ -1,3 +1,9 @@
+Fast run (not last variant):
+```
+npm test -- --watchAll=false --coverage
+docker run --rm -v $pwd/:/usr/src sonarsource/sonar-scanner-cli
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
