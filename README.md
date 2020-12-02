@@ -2,8 +2,8 @@
 
 Folders:
 1) sonar - docker compose with sonar
-2) test-project - simple project for test simulate branch and make 'fun' with sonar
-Every folder contains readme. 1st for read sonar, 2nd test-project.
+2) test-project-java - simple project for test simulate branch and make 'fun' with sonar
+Every folder contains readme. 1st for read sonar, 2nd test-project-java.
 
 #### Links
 * [Sonar](https://www.sonarqube.org)
