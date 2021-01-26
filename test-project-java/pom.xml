@@ -81,6 +81,7 @@
                 <sonar.pullrequest.branch>simulate-branch</sonar.pullrequest.branch>
                 <sonar.pullrequest.key>42</sonar.pullrequest.key>
                 <sonar.scm.disabled>false</sonar.scm.disabled>
+				<!-- sonar.pullrequest.gitlab.projectUrl -->
             </properties>
         </profile>
     </profiles>
